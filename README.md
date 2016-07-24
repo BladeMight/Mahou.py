@@ -1,6 +1,6 @@
 # Mahou.py is [Mahou](https://github.com/BladeMight/Mahou) but written on Python 3.
 Mahou on Python(Python keyboard layout switcher).
-Project still beta, don't expect too much :), for now works only on windows, in future maybe will work on linux and mac.
+Project still beta, don't expect too much :), for now works only on Windows, in future maybe will work on linux and mac.
 # How to use?
 - Install [Python 3](http://python.org).
 - Run Mahou.py.
